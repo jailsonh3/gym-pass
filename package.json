@@ -33,10 +33,10 @@
     "tsx": "3.13.0",
     "typescript": "5.2.2",
     "vite-tsconfig-paths": "4.2.1",
-    "vitest": "0.33.0"
+    "vitest": "0.33.0",
+    "tsup": "7.2.0"
   },
   "dependencies": {
-    "tsup": "7.2.0",
     "@fastify/cookie": "9.1.0",
     "@fastify/jwt": "7.2.1",
     "@prisma/client": "5.4.1",
